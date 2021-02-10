@@ -38,6 +38,12 @@
 - Managing Toastmasters Košice organization as an open-source project
 - How to automate data backup?
 - What are LTO Tapes and how do they work?
+- Why you should setup 2FA authentication?
+- How GPG works and how it helps you secure data privacy?
+- Hacktoberfest - why you should join
+- PinePhone / UBPorts
+- Porting Ubuntu to OnePlus 6T
+- What are linux alternatives to Android?
 
 ## Comenio
 - Parler shutdown tought us a lesson. Why you should always have a backup plan?
@@ -64,6 +70,9 @@
 - My 3 years with Toastmasters
 - What I learned as an officer in Toastmasters
 - Hackers & Painters: my review of Paul Graham's Essays
+- Why you should secure your account with 2FA
+- Why I moved from Google to Protonmail
+- Why you should use Signal
 
 ## Concertino
 - Nohavica, Radůza, Čechomor, francúzske šansóny, Tomáš Klus, Daniel Landa
