@@ -73,6 +73,7 @@
 - Why you should secure your account with 2FA
 - Why I moved from Google to Protonmail
 - Why you should use Signal
+- Nelineárne vnímanie času. Prečo čím sme starší, nám rok pripadá kratší?
 
 ## Concertino
 - Nohavica, Radůza, Čechomor, francúzske šansóny, Tomáš Klus, Daniel Landa
