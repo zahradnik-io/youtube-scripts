@@ -64,6 +64,7 @@
 - Do you want to be a blogger? Where to start?
 - Why you should have a custom domain?
 - Medium vs. Ghost - what to choose?
+- Effective methods of learning foreign languages
 
 ## vzahradnik / Vladov svet
 - 4 months for a career change. This is my challenge!
