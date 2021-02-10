@@ -76,6 +76,7 @@
 - Why you should use Signal
 - Nelineárne vnímanie času. Prečo čím sme starší, nám rok pripadá kratší?
 - Dabing alebo pôvodné znenie? Ako som sa dostal od fanúšika dabingu ku pozeraniu v originále?
+- Toyota Yaris - ako som sa na chvíľu stal automechanikom.
 
 ## Concertino
 - Nohavica, Radůza, Čechomor, francúzske šansóny, Tomáš Klus, Daniel Landa
