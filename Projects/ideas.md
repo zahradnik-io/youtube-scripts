@@ -100,6 +100,7 @@
 - How to overcome your anxiety?
 - How I got into public speaking
 - Mnohé veci z TM...
+- Prečo sa teším zo snehu, aj keď mi omŕzajú ruky?
 
 ## Concertino
 - Nohavica, Radůza, Čechomor, francúzske šansóny, Tomáš Klus, Daniel Landa
