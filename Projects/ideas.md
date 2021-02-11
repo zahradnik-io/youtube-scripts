@@ -45,6 +45,7 @@
 - Porting Ubuntu to OnePlus 6T
 - What are linux alternatives to Android?
 - How WebRTC works
+- How to setup your blog on a .onion domain on Tor
 
 ## Comenio
 - Parler shutdown tought us a lesson. Why you should always have a backup plan?
@@ -69,6 +70,8 @@
 - Zoom alternatives
 - School System revisited
 - A generalist vs. a specialist - my own experience
+- What can we do to protect freedom of speech?
+- GDPR - how does it affect our entrepreneurship?
 
 ## vzahradnik / Vladov svet
 - 4 months for a career change. This is my challenge!
@@ -82,6 +85,7 @@
 - Dabing alebo pôvodné znenie? Ako som sa dostal od fanúšika dabingu ku pozeraniu v originále?
 - Toyota Yaris - ako som sa na chvíľu stal automechanikom.
 - huMAN / Kyiosaki - rozobrať ich quotes, napr. "Nehovorte, že sa niečo nedá. Hľadajte spôsob, ako sa to dá."
+- Môj subjektívny pohľad na vývoj internetu. Rýchle linky, väčšia cenzúra... postupná zmena na službu pre masy, náhrada TV.
 
 ## Concertino
 - Nohavica, Radůza, Čechomor, francúzske šansóny, Tomáš Klus, Daniel Landa
