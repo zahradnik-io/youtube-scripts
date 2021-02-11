@@ -101,6 +101,7 @@
 - When you should hire a CEO instead of you?
 - How to not get stuck on square one for too long?
 - How open-source development and blogging helped me to get my clients
+- How to learn a foreign language the proper way
 
 ## vzahradnik / Vladov svet
 - 4 months for a career change. This is my challenge!
@@ -121,6 +122,8 @@
 - Prečo sa teším zo snehu, aj keď mi omŕzajú ruky?
 - Agile a firemné "kmene", daily standupy...
 - Comenio: two CTOs, no CEO. One needs to re-qualify
+- Prečo som sa rozhodol naučiť rusky?
+- Čo je medžusloviančina?
 
 ## Concertino
 - Nohavica, Radůza, Čechomor, francúzske šansóny, Tomáš Klus, Daniel Landa
