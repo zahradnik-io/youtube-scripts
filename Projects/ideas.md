@@ -118,6 +118,8 @@
 - Ako prekonať sociálnu plachosť? Ako na small-talk?
 - Korona a sociálna uzavretosť vraj prospieva introvertom. Prečo si myslím, že je to hlúposť?
 - Ako sa stať lídrom?
+- Sú ľudia na home office menej produktívni?
+- Prečo (ne)ísť do coworkingu
 
 ## vzahradnik / Vladov svet
 - 4 months for a career change. This is my challenge!
