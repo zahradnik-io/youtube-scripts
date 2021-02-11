@@ -48,6 +48,8 @@
 - How to setup your blog on a .onion domain on Tor
 - Dependency management with PlatformIO
 - How to unit test your Arduino project
+- Pair programming
+- Gatsby JS / Vue / Nuxt - why proper knowledge of JS and browser still matters?
 
 ## Comenio
 - Parler shutdown tought us a lesson. Why you should always have a backup plan?
@@ -85,6 +87,14 @@
 - How to organize a webinar
 - How to get people to your webinar
 - Secrets of a good keynote
+- What is agile and where it does make sense
+- Where agile doesn't work?
+- Lean startup - lessons learned
+- Startup School - how does it work?
+- Startup school perks, community, resources...
+- Finding a co-founder
+- When you should hire a CEO instead of you?
+- How to not get stuck on square one for too long?
 
 ## vzahradnik / Vladov svet
 - 4 months for a career change. This is my challenge!
@@ -103,6 +113,8 @@
 - How I got into public speaking
 - Mnohé veci z TM...
 - Prečo sa teším zo snehu, aj keď mi omŕzajú ruky?
+- Agile a firemné "kmene", daily standupy...
+- Comenio: two CTOs, no CEO. One needs to re-qualify
 
 ## Concertino
 - Nohavica, Radůza, Čechomor, francúzske šansóny, Tomáš Klus, Daniel Landa
