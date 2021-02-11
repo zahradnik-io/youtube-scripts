@@ -152,3 +152,10 @@
 
 ## zahradnik.io
 - TBD
+
+## Toastmasters Košice
+- Video ako robiť rolu časomerača na zoome online
+- Navod a materialy ako virutalne pozadia, k tomu tabuľku eventualne. nech to mame definovane a podložene
+- Aby to služilo tomu že ak novy člen dostane tu uloho tak to bude vedieč robiť v takej techickej kvalite ako ty
+- Zjednotime si tým aj úlohu časomerača. k tomu možeš pridať one pager
+- Do 10 minút
