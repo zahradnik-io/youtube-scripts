@@ -72,6 +72,17 @@
 - A generalist vs. a specialist - my own experience
 - What can we do to protect freedom of speech?
 - GDPR - how does it affect our entrepreneurship?
+- Those who fail to plan, plan to fail.
+- Why you should plan ahead.
+- How to expand your professional network of people.
+- Feedback loop - how it helps you improve by iterating
+- Why should you focus on soft skills?
+- Soft skills vs hard skills
+- Entrepreneur as a conductor/coordinator
+- Build your products at the same time as your audience
+- How to organize a webinar
+- How to get people to your webinar
+- Secrets of a good keynote
 
 ## vzahradnik / Vladov svet
 - 4 months for a career change. This is my challenge!
@@ -86,6 +97,9 @@
 - Toyota Yaris - ako som sa na chvíľu stal automechanikom.
 - huMAN / Kyiosaki - rozobrať ich quotes, napr. "Nehovorte, že sa niečo nedá. Hľadajte spôsob, ako sa to dá."
 - Môj subjektívny pohľad na vývoj internetu. Rýchle linky, väčšia cenzúra... postupná zmena na službu pre masy, náhrada TV.
+- How to overcome your anxiety?
+- How I got into public speaking
+- Mnohé veci z TM...
 
 ## Concertino
 - Nohavica, Radůza, Čechomor, francúzske šansóny, Tomáš Klus, Daniel Landa
