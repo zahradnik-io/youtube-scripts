@@ -120,6 +120,7 @@
 - Ako sa stať lídrom?
 - Sú ľudia na home office menej produktívni?
 - Prečo (ne)ísť do coworkingu
+- Imperative vs. declarative knowledge. What really matters?
 
 ## vzahradnik / Vladov svet
 - 4 months for a career change. This is my challenge!
