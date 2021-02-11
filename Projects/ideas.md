@@ -109,6 +109,15 @@
 - Živnostník vs. zamestnanec - ako vnímam obe roly. Výhody/nevýhody
 - Syndróm vyhorenia - ako sa mu vyhnúť
 - Prečo je dôležitý aj oddych a spánok?
+- Ako na manažovanie času - Clockify/Nextcloud
+- Má zmysel manažovať aj svoje osobné veci v nástrojoch ako Asana?
+- Prečo je motivácia nutná k dosiahnutiu úspechu?
+- Ako bojovať s neprajníkmi?
+- Ste priemerom piatich najbližších ľudí okolo vás. Ako si nájsť tých správnych?
+- Prečo si nájsť mentora? A prečo ich mať viac?
+- Ako prekonať sociálnu plachosť? Ako na small-talk?
+- Korona a sociálna uzavretosť vraj prospieva introvertom. Prečo si myslím, že je to hlúposť?
+- Ako sa stať lídrom?
 
 ## vzahradnik / Vladov svet
 - 4 months for a career change. This is my challenge!
