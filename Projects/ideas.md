@@ -54,6 +54,7 @@
 - Microservices
 - How does Modbus work?
 - Specification vs. implementation. How devices behave in the wild? Modbus example.
+- Perils of managing huge open-source projects. Influx of PRs, not enough reviewers - Home Assistant, edX
 
 ## Comenio
 - Parler shutdown tought us a lesson. Why you should always have a backup plan?
