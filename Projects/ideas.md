@@ -52,6 +52,8 @@
 - Gatsby JS / Vue / Nuxt - why proper knowledge of JS and browser still matters?
 - Go / bash scripting
 - Microservices
+- How does Modbus work?
+- Specification vs. implementation. How devices behave in the wild? Modbus example.
 
 ## Comenio
 - Parler shutdown tought us a lesson. Why you should always have a backup plan?
