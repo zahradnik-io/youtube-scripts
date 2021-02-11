@@ -121,6 +121,8 @@
 - Sú ľudia na home office menej produktívni?
 - Prečo (ne)ísť do coworkingu
 - Imperative vs. declarative knowledge. What really matters?
+- OBS fundamentals for livestreaming
+- OBS virtual cam for Zoom
 
 ## vzahradnik / Vladov svet
 - 4 months for a career change. This is my challenge!
