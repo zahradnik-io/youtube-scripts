@@ -50,6 +50,8 @@
 - How to unit test your Arduino project
 - Pair programming
 - Gatsby JS / Vue / Nuxt - why proper knowledge of JS and browser still matters?
+- Go / bash scripting
+- Microservices
 
 ## Comenio
 - Parler shutdown tought us a lesson. Why you should always have a backup plan?
