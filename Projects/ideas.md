@@ -123,6 +123,7 @@
 - Imperative vs. declarative knowledge. What really matters?
 - OBS fundamentals for livestreaming
 - OBS virtual cam for Zoom
+- Why I decided to learn web development after all those years? How to monetize my work?
 
 ## vzahradnik / Vladov svet
 - 4 months for a career change. This is my challenge!
