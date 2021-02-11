@@ -44,6 +44,7 @@
 - PinePhone / UBPorts
 - Porting Ubuntu to OnePlus 6T
 - What are linux alternatives to Android?
+- How WebRTC works
 
 ## Comenio
 - Parler shutdown tought us a lesson. Why you should always have a backup plan?
@@ -65,6 +66,9 @@
 - Why you should have a custom domain?
 - Medium vs. Ghost - what to choose?
 - Effective methods of learning foreign languages
+- Zoom alternatives
+- School System revisited
+- A generalist vs. a specialist - my own experience
 
 ## vzahradnik / Vladov svet
 - 4 months for a career change. This is my challenge!
@@ -77,6 +81,7 @@
 - Nelineárne vnímanie času. Prečo čím sme starší, nám rok pripadá kratší?
 - Dabing alebo pôvodné znenie? Ako som sa dostal od fanúšika dabingu ku pozeraniu v originále?
 - Toyota Yaris - ako som sa na chvíľu stal automechanikom.
+- huMAN / Kyiosaki - rozobrať ich quotes, napr. "Nehovorte, že sa niečo nedá. Hľadajte spôsob, ako sa to dá."
 
 ## Concertino
 - Nohavica, Radůza, Čechomor, francúzske šansóny, Tomáš Klus, Daniel Landa
