@@ -102,6 +102,11 @@
 - How to not get stuck on square one for too long?
 - How open-source development and blogging helped me to get my clients
 - How to learn a foreign language the proper way
+- Ak ste kreatívni, nemusíte sa báť, že niekedy prídete o prácu
+- Ak viete dobre rečniť, o budúcnosť sa báť nemusíte
+- Entrepreneur sa dokáže vynájsť za každých okolností. Hľadajte príležitosti tam, kde ich iní nevidia
+- Každý zamestnanec by si mal skúsiť aspoň chvíľu podnikať
+- Živnostník vs. zamestnanec - ako vnímam obe roly. Výhody/nevýhody
 
 ## vzahradnik / Vladov svet
 - 4 months for a career change. This is my challenge!
@@ -124,6 +129,7 @@
 - Comenio: two CTOs, no CEO. One needs to re-qualify
 - Prečo som sa rozhodol naučiť rusky?
 - Čo je medžusloviančina?
+- Ako sa mi ľahšie kľučkuje v čase covidu ako freelancerovi
 
 ## Concertino
 - Nohavica, Radůza, Čechomor, francúzske šansóny, Tomáš Klus, Daniel Landa
