@@ -57,6 +57,10 @@
 - Perils of managing huge open-source projects. Influx of PRs, not enough reviewers - Home Assistant, edX
 - How to write testable code
 - Why integration testing matters?
+- The importance of Markdown
+- How to write documentation for your project and where to host it
+- Localization and translation of open-source projects
+- Arduino gettext?? Keď ho naprogramujem...
 
 ## Comenio
 - Parler shutdown tought us a lesson. Why you should always have a backup plan?
