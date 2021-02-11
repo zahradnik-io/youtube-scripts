@@ -100,6 +100,7 @@
 - Finding a co-founder
 - When you should hire a CEO instead of you?
 - How to not get stuck on square one for too long?
+- How open-source development and blogging helped me to get my clients
 
 ## vzahradnik / Vladov svet
 - 4 months for a career change. This is my challenge!
