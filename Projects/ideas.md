@@ -130,6 +130,12 @@
 - OBS fundamentals for livestreaming
 - OBS virtual cam for Zoom
 - Why I decided to learn web development after all those years? How to monetize my work?
+- Successful Startup: Focus On Niche Market Revisited
+- Organic Mission: my first failure
+- Concertino, Comenio, Nutrion and my way to Toastmasters
+- Being a software engineer is not enough anymore
+- Toastmasters Leadership Lessons
+- When it's better to end your business instead of pushing it from your resources (time, money)
 
 ## vzahradnik / Vladov svet
 - 4 months for a career change. This is my challenge!
@@ -154,6 +160,11 @@
 - Čo je medžusloviančina?
 - Ako sa mi ľahšie kľučkuje v čase covidu ako freelancerovi
 - Ako som sa dostal ku akordeónu a prečo som nakoniec šiel študovať technický odbor?
+- Prečo mám rád turistiku
+- Ako začali moje pravidelné prechádzky
+- Ako vzniklo kolečko
+- Ľudia sa odtrhujú od reálneho sveta. Vieme s tým niečo robiť? Borgovia vo vlaku. Príhoda ako som s pánom cestou do Bratislavy predebatoval 4 hodiny a ostatní čumeli do mobilov
+- Ako som spoznal Erika
 
 ## Concertino
 - Nohavica, Radůza, Čechomor, francúzske šansóny, Tomáš Klus, Daniel Landa
