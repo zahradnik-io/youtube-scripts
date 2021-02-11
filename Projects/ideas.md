@@ -46,6 +46,8 @@
 - What are linux alternatives to Android?
 - How WebRTC works
 - How to setup your blog on a .onion domain on Tor
+- Dependency management with PlatformIO
+- How to unit test your Arduino project
 
 ## Comenio
 - Parler shutdown tought us a lesson. Why you should always have a backup plan?
