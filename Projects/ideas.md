@@ -107,6 +107,8 @@
 - Entrepreneur sa dokáže vynájsť za každých okolností. Hľadajte príležitosti tam, kde ich iní nevidia
 - Každý zamestnanec by si mal skúsiť aspoň chvíľu podnikať
 - Živnostník vs. zamestnanec - ako vnímam obe roly. Výhody/nevýhody
+- Syndróm vyhorenia - ako sa mu vyhnúť
+- Prečo je dôležitý aj oddych a spánok?
 
 ## vzahradnik / Vladov svet
 - 4 months for a career change. This is my challenge!
@@ -130,6 +132,7 @@
 - Prečo som sa rozhodol naučiť rusky?
 - Čo je medžusloviančina?
 - Ako sa mi ľahšie kľučkuje v čase covidu ako freelancerovi
+- Ako som sa dostal ku akordeónu a prečo som nakoniec šiel študovať technický odbor?
 
 ## Concertino
 - Nohavica, Radůza, Čechomor, francúzske šansóny, Tomáš Klus, Daniel Landa
