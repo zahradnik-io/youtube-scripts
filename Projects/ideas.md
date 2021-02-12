@@ -136,6 +136,7 @@
 - Being a software engineer is not enough anymore
 - Toastmasters Leadership Lessons
 - When it's better to end your business instead of pushing it from your resources (time, money)
+- Neporovnávajte sa s ostatnými, ale so samým sebou
 
 ## vzahradnik / Vladov svet
 - 4 months for a career change. This is my challenge!
