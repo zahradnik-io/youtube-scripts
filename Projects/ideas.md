@@ -61,6 +61,8 @@
 - How to write documentation for your project and where to host it
 - Localization and translation of open-source projects
 - Arduino gettext?? Keď ho naprogramujem...
+- Hackintosh, OpenCore, Clover, Chameleon, Chimera
+- Disk imaging, GPT, gdisk, fdisk, MBR
 
 ## Comenio
 - Parler shutdown tought us a lesson. Why you should always have a backup plan?
