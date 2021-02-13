@@ -67,6 +67,10 @@
 - Low latency audio under Linux
 - BSD
 - OpnSense
+- WebRTC
+- OpenWrt
+- Building and customizing linux kernel
+- Is ArchLinux appropriate for a server?
 
 ## Comenio
 - Parler shutdown tought us a lesson. Why you should always have a backup plan?
