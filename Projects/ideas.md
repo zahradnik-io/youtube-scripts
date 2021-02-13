@@ -63,6 +63,10 @@
 - Arduino gettext?? Keď ho naprogramujem...
 - Hackintosh, OpenCore, Clover, Chameleon, Chimera
 - Disk imaging, GPT, gdisk, fdisk, MBR
+- Pulseaudio and PipeWire
+- Low latency audio under Linux
+- BSD
+- OpnSense
 
 ## Comenio
 - Parler shutdown tought us a lesson. Why you should always have a backup plan?
