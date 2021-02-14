@@ -71,6 +71,8 @@
 - OpenWrt
 - Building and customizing linux kernel
 - Is ArchLinux appropriate for a server?
+- Ako na vlastný mailing list
+- Na čo všetko sa dá použiť git? Napr. kniha receptov...
 
 ## Comenio
 - Parler shutdown tought us a lesson. Why you should always have a backup plan?
@@ -176,6 +178,7 @@
 - Ako vzniklo kolečko
 - Ľudia sa odtrhujú od reálneho sveta. Vieme s tým niečo robiť? Borgovia vo vlaku. Príhoda ako som s pánom cestou do Bratislavy predebatoval 4 hodiny a ostatní čumeli do mobilov
 - Ako som spoznal Erika
+- Ako som sa dostal k Linuxu a ako môj brat
 
 ## Concertino
 - Nohavica, Radůza, Čechomor, francúzske šansóny, Tomáš Klus, Daniel Landa
