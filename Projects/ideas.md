@@ -149,6 +149,7 @@
 - Toastmasters Leadership Lessons
 - When it's better to end your business instead of pushing it from your resources (time, money)
 - Neporovnávajte sa s ostatnými, ale so samým sebou
+- Ako prekonať strach z rečnenia. Tipy...
 
 ## vzahradnik / Vladov svet
 - 4 months for a career change. This is my challenge!
