@@ -183,6 +183,7 @@
 - Ako som spoznal Erika
 - Ako som sa dostal k Linuxu a ako môj brat
 - Každý vám dáva rady zo svojho uhla pohľadu. Neznamená to, že sú správne.
+- Otužovanie
 
 ## Concertino
 - Nohavica, Radůza, Čechomor, francúzske šansóny, Tomáš Klus, Daniel Landa
