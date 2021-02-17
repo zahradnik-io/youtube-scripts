@@ -151,6 +151,7 @@
 - Neporovnávajte sa s ostatnými, ale so samým sebou
 - Ako prekonať strach z rečnenia. Tipy...
 - Vizualizácia úspechu
+- Neporovnávajte sa s inými ale so samým sebou vtedy a dnes
 
 ## vzahradnik / Vladov svet
 - 4 months for a career change. This is my challenge!
