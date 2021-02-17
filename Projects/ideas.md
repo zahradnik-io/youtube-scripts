@@ -150,6 +150,7 @@
 - When it's better to end your business instead of pushing it from your resources (time, money)
 - Neporovnávajte sa s ostatnými, ale so samým sebou
 - Ako prekonať strach z rečnenia. Tipy...
+- Vizualizácia úspechu
 
 ## vzahradnik / Vladov svet
 - 4 months for a career change. This is my challenge!
@@ -180,6 +181,7 @@
 - Ľudia sa odtrhujú od reálneho sveta. Vieme s tým niečo robiť? Borgovia vo vlaku. Príhoda ako som s pánom cestou do Bratislavy predebatoval 4 hodiny a ostatní čumeli do mobilov
 - Ako som spoznal Erika
 - Ako som sa dostal k Linuxu a ako môj brat
+- Každý vám dáva rady zo svojho uhla pohľadu. Neznamená to, že sú správne.
 
 ## Concertino
 - Nohavica, Radůza, Čechomor, francúzske šansóny, Tomáš Klus, Daniel Landa
