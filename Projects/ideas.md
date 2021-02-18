@@ -77,6 +77,8 @@
 - Modbus / ModbusRTU / ModbusTCP / ModbusUDP
 - TCP, UDP
 - RFC standards
+- Wireshark and TShark / TCPDump
+- Orange TV reverse engineering
 
 ## Comenio
 - Parler shutdown tought us a lesson. Why you should always have a backup plan?
