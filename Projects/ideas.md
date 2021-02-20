@@ -158,6 +158,7 @@
 - Ako prekonať strach z rečnenia. Tipy...
 - Vizualizácia úspechu
 - Neporovnávajte sa s inými ale so samým sebou vtedy a dnes
+- Bojíte sa, že vám ako blogerovi dôjdu témy? Ja mám opačný problém, nestíham ich spracovávať.
 
 ## vzahradnik / Vladov svet
 - 4 months for a career change. This is my challenge!
@@ -190,9 +191,14 @@
 - Ako som sa dostal k Linuxu a ako môj brat
 - Každý vám dáva rady zo svojho uhla pohľadu. Neznamená to, že sú správne.
 - Otužovanie
+- Žiť alebo prežívať
+- Sloboda je stav mysle
+- Príbehy a rozprávky inšpirované skutočnosťou
+- Môj pohľad na MGTOW
+- Do vecí chodím naplno. Riziko? Patrí k životu. (pohľad na dnešné vzťahy...)
 
 ## Concertino
-- Nohavica, Radůza, Čechomor, francúzske šansóny, Tomáš Klus, Daniel Landa
+- Nohavica, Radůza, Čechomor, francúzske šansóny, Tomáš Klus, Daniel Landa, Vlasta Rédl
 - Časom skúsiť vlastné skladby, uvidíme...
 - https://www.harmonika.cz/noty/
 
