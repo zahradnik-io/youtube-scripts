@@ -159,6 +159,7 @@
 - Vizualizácia úspechu
 - Neporovnávajte sa s inými ale so samým sebou vtedy a dnes
 - Bojíte sa, že vám ako blogerovi dôjdu témy? Ja mám opačný problém, nestíham ich spracovávať.
+- Hľadať spôsob, ako nájsť cestu alebo "Idem, riešim"
 
 ## vzahradnik / Vladov svet
 - 4 months for a career change. This is my challenge!
