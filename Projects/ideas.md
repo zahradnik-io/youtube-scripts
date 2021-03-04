@@ -1,6 +1,7 @@
 # Ideas
 
 ## JSC
+- Optimizing TCP connections on Arduino PLCs
 - Automated GitHub repo mirroring
 - A gentle introduction to GitHub Actions
 - How to set up your web on GitHub Pages
