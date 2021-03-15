@@ -82,6 +82,7 @@
 - Orange TV reverse engineering
 
 ## Comenio
+- Full-remote ineffeciency
 - Parler shutdown tought us a lesson. Why you should always have a backup plan?
 - Your own server infrastructure? Where to start?
 - Do you want to succeed? Be flexible!
