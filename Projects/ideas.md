@@ -82,6 +82,7 @@
 - Orange TV reverse engineering
 
 ## Comenio
+- Ako na manažovanie času - Clockify/Nextcloud
 - Full-remote ineffeciency
 - Parler shutdown tought us a lesson. Why you should always have a backup plan?
 - Your own server infrastructure? Where to start?
@@ -135,7 +136,6 @@
 - Živnostník vs. zamestnanec - ako vnímam obe roly. Výhody/nevýhody
 - Syndróm vyhorenia - ako sa mu vyhnúť
 - Prečo je dôležitý aj oddych a spánok?
-- Ako na manažovanie času - Clockify/Nextcloud
 - Má zmysel manažovať aj svoje osobné veci v nástrojoch ako Asana?
 - Prečo je motivácia nutná k dosiahnutiu úspechu?
 - Ako bojovať s neprajníkmi?
