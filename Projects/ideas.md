@@ -82,6 +82,7 @@
 - Orange TV reverse engineering
 
 ## Comenio
+- Prispievanie do open-source ako najlepší životopis
 - Ako na manažovanie času - Clockify/Nextcloud
 - Full-remote ineffeciency
 - Parler shutdown tought us a lesson. Why you should always have a backup plan?
