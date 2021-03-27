@@ -165,6 +165,7 @@
 - Hľadať spôsob, ako nájsť cestu alebo "Idem, riešim"
 
 ## vzahradnik / Vladov svet
+- Chatrč / The Shack
 - 4 months for a career change. This is my challenge!
 - My 3 years with Toastmasters
 - What I learned as an officer in Toastmasters
