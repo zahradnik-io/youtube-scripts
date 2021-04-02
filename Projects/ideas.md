@@ -1,6 +1,9 @@
 # Ideas
 
 ## JSC
+- Listmonk - custom mailing list
+- How to publish an Arduino library
+- How to migrate from TravisCI to GitHub Actions
 - Optimizing TCP connections on Arduino PLCs
 - Automated GitHub repo mirroring
 - A gentle introduction to GitHub Actions
