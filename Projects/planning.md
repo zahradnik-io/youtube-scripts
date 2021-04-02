@@ -1,5 +1,11 @@
 # Planning
 
+## Targets
+- JSC electronics: 35 videos to go
+- Comenio: 35 videos to go
+- vzahradnik: 35 videos to go
+- Vladov svet: 35 videos to go
+
 ## April 2021
 
 | Date | Channel | Title | Script | Shooting | Editing | Published | Link | Note |
