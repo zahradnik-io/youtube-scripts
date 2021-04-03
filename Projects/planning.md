@@ -1,7 +1,7 @@
 # Planning
 
 ## Targets
-- JSC electronics: 35 videos to go
+- JSC electronics: 34 videos to go
 - Comenio: 35 videos to go
 - vzahradnik: 35 videos to go
 - Vladov svet: 35 videos to go
@@ -10,7 +10,7 @@
 
 | Date | Channel | Title | Script | Shooting | Editing | Published | Link | Note |
 |---|---|---|---|---|---|---|---|---|
-| 5.4.2021 | JSC electronics | [How to sync GitHub mirrors][jsc_01] | ✅ | ❌ | ❌ | ❌ | n/a | |
+| 3.4.2021 | JSC electronics | [How to sync GitHub mirrors][jsc_01] | ✅ | ✅ | ✅ | ✅ | https://youtu.be/WUxIiGRd-XQ | |
 | 5.4.2021 | Comenio | [5 tips to become a good leader][comenio_01] | ✅ | ❌ | ❌ | ❌ | n/a | |
 | 5.4.2021 | vzahradnik | Why our world needs leaders? | ❌ | ❌ | ❌ | ❌ | n/a | |
 | 5.4.2021 | Vladov svet | [5 tipov, ako sa stať dobrým lídrom][vladov_svet_01] | ✅ | ❌ | ❌ | ❌ | n/a | |
