@@ -3,8 +3,8 @@
 ## Targets
 - JSC electronics: 34 videos to go
 - Comenio: 35 videos to go
-- vzahradnik: 35 videos to go
-- Vladov svet: 35 videos to go
+- vzahradnik: 34 videos to go
+- Vladov svet: 34 videos to go
 
 ## April 2021
 
