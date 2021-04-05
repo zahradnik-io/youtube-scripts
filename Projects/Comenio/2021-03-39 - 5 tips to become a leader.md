@@ -1,4 +1,4 @@
-# 5 tips to become a good leader
+# 5 tips to become a leader
 
 ## Hook
 Our world needs good leaders badly. Do you want to build communities and help us thrive? How do you become a leader? Coming up!

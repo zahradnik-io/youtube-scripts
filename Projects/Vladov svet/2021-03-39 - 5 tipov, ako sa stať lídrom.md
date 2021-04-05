@@ -1,4 +1,4 @@
-# 5 tipov, ako sa stať dobrým lídrom
+# 5 tipov, ako sa stať lídrom
 
 ## Hook
 Dnes potrebujeme dobrých lídrov ako soľ. Chcete budovať okolo seba komunity a pomôcť nám prosperovať? Ako sa stanete lídrom? Dozviete sa o chvíľu!
