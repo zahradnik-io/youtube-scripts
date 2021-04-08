@@ -14,6 +14,9 @@
 | 5.4.2021 | Vladov svet | [5 tipov, ako sa stať lídrom][vladov_svet_01] | ✅ | ✅ | ✅ | ✅ | https://youtu.be/ErVHbfD8Mss | |
 | 5.4.2021 | vzahradnik | My first week being a YouTuber | ❌ | ✅ | ✅ | ✅ | https://youtu.be/OOZlheC2Rp4 | |
 | 6.4.2021 | Comenio | [5 tips to become a leader][comenio_01] | ✅ | ❌ | ❌ | ❌ | https://youtu.be/foD2nEo1e8U | |
+| 8.4.2021 | Vladov svet | Flutter a môj pohľad naňho | ❌ | ✅ | ✅ | ✅ | https://youtu.be/eEV2qFKmtTI | |
+| 9.4.2021 | Comenio | My view on Flutter | ❌ | ❌ | ❌ | ❌ |  | |
+| | JSC electronics | How to customize ISO without flashing (in Linux) | ❌ | ❌ | ❌ | ❌ |  | |
 
 [//]: # (Scripts)
 [jsc_01]: /Projects/JSC%20electronics/2021-03-39%20-%20How%20to%20sync%20GitHub%20mirrors.md
