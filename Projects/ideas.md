@@ -1,7 +1,7 @@
 # Ideas
 
 ## JSC
-- Cloudflare Pages - my first impressions
+- Migrating to Cloudflare Pages - my first impressions
 - Listmonk - custom mailing list
 - How to publish an Arduino library
 - How to migrate from TravisCI to GitHub Actions
