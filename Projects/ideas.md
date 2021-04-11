@@ -2,6 +2,7 @@
 
 ## JSC
 - Migrating to Cloudflare Pages - my first impressions
+- Mailing list - how to get CSRF token?
 - Listmonk - custom mailing list
 - How to publish an Arduino library
 - How to migrate from TravisCI to GitHub Actions
