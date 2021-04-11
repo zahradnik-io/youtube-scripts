@@ -1,6 +1,7 @@
 # Ideas
 
 ## JSC
+- Cloudflare Pages - my first impressions
 - Listmonk - custom mailing list
 - How to publish an Arduino library
 - How to migrate from TravisCI to GitHub Actions
@@ -85,6 +86,8 @@
 - Orange TV reverse engineering
 
 ## Comenio
+- Lean MVP - set a target date and get rid of unnecessary features. Comenio update.
+- Where to host your static site for free? Cloudflare, Netlify, GitHub Pages comparison
 - Prispievanie do open-source ako najlepší životopis
 - Ako na manažovanie času - Clockify/Nextcloud
 - Full-remote ineffeciency
