@@ -16,7 +16,7 @@
 | 6.4.2021 | Comenio | [5 tips to become a leader][comenio_01] | ✅ | ✅  | ✅  | ✅ | https://youtu.be/foD2nEo1e8U | |
 | 8.4.2021 | Vladov svet | Flutter a môj pohľad naňho | ❌ | ✅ | ✅ | ✅ | https://youtu.be/eEV2qFKmtTI | |
 | 9.4.2021 | JSC electronics | How to customize existing ISOs (on Linux) | ❌ | ✅ | ✅ | ✅ | https://youtu.be/aFaQjQ4vmQA | |
-| 13.4.2021 | JSC electronics | My view on Flutter | ❌ | ❌ | ❌ | ❌ |  | |
+| 13.4.2021 | JSC electronics | [My view on Flutter][jsc_02] | ✅ | ❌ | ❌ | ❌ |  | |
 | 13.4.2021 | JSC electronics | Cloudflare Pages: My first impressions | ❌ | ❌ | ❌ | ❌ |  | |
 | 15.4.2021 | Comenio | Lean MVP is essential: Comenio Update | ❌ | ❌ | ❌ | ❌ |  | |
 | 15.4.2021 | Vladov svet | Jednoduchý MVP je základ: Plány v Comeniu | ❌ | ❌ | ❌ | ❌ |  | |
@@ -26,5 +26,8 @@
 
 [//]: # (Scripts)
 [jsc_01]: /Projects/JSC%20electronics/2021-03-39%20-%20How%20to%20sync%20GitHub%20mirrors.md
+[jsc_02]: https://github.com/zahradnik-io/youtube-scripts/blob/main/Projects/JSC%20electronics/2021-04-13%20-%20My%20view%20on%20Flutter.md
+
 [comenio_01]: /Projects/Comenio/2021-03-39%20-%205%20tips%20to%20become%20a%20leader.md
+
 [vladov_svet_01]: /Projects/Vladov%20svet/2021-03-39%20-%205%20tipov%2C%20ako%20sa%20stať%20lídrom.md
