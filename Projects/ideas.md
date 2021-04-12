@@ -1,6 +1,8 @@
 # Ideas
 
 ## JSC
+- Static web, best free hosting, JAMstack
+- Why I don't use Wordpress anymore?
 - Migrating to Cloudflare Pages - my first impressions
 - Mailing list - how to get CSRF token?
 - Listmonk - custom mailing list
