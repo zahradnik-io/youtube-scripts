@@ -13,7 +13,7 @@
 | 3.4.2021 | JSC electronics | [How to sync GitHub mirrors][jsc_01] | ✅ | ✅ | ✅ | ✅ | https://youtu.be/WUxIiGRd-XQ | |
 | 5.4.2021 | Vladov svet | [5 tipov, ako sa stať lídrom][vladov_svet_01] | ✅ | ✅ | ✅ | ✅ | https://youtu.be/ErVHbfD8Mss | |
 | 5.4.2021 | vzahradnik | My first week being a YouTuber | ❌ | ✅ | ✅ | ✅ | https://youtu.be/OOZlheC2Rp4 | |
-| 6.4.2021 | Comenio | [5 tips to become a leader][comenio_01] | ✅ | ❌ | ❌ | ❌ | https://youtu.be/foD2nEo1e8U | |
+| 6.4.2021 | Comenio | [5 tips to become a leader][comenio_01] | ✅ | ✅  | ✅  | ✅ | https://youtu.be/foD2nEo1e8U | |
 | 8.4.2021 | Vladov svet | Flutter a môj pohľad naňho | ❌ | ✅ | ✅ | ✅ | https://youtu.be/eEV2qFKmtTI | |
 | 9.4.2021 | JSC electronics | How to customize existing ISOs (on Linux) | ❌ | ✅ | ✅ | ✅ | https://youtu.be/aFaQjQ4vmQA | |
 | 13.4.2021 | JSC electronics | My view on Flutter | ❌ | ❌ | ❌ | ❌ |  | |
