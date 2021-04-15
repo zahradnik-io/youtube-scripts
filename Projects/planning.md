@@ -16,12 +16,14 @@
 | 6.4.2021 | Comenio | [5 tips to become a leader][comenio_01] | ✅ | ✅  | ✅  | ✅ | https://youtu.be/foD2nEo1e8U | |
 | 8.4.2021 | Vladov svet | Flutter a môj pohľad naňho | ❌ | ✅ | ✅ | ✅ | https://youtu.be/eEV2qFKmtTI | |
 | 9.4.2021 | JSC electronics | How to customize existing ISOs (on Linux) | ❌ | ✅ | ✅ | ✅ | https://youtu.be/aFaQjQ4vmQA | |
-| 13.4.2021 | JSC electronics | [My view on Flutter][jsc_02] | ✅ | ❌ | ❌ | ❌ |  | |
-| 13.4.2021 | JSC electronics | Cloudflare Pages: My first impressions | ❌ | ❌ | ❌ | ❌ |  | |
-| 15.4.2021 | Comenio | Lean MVP is essential: Comenio Update | ❌ | ❌ | ❌ | ❌ |  | |
-| 15.4.2021 | Vladov svet | Jednoduchý MVP je základ: Plány v Comeniu | ❌ | ❌ | ❌ | ❌ |  | |
-| 16.4.2021 | vzahradnik | How I got into hiking | ❌ | ❌ | ❌ | ❌ |  | |
-| 16.4.2021 | Vladov svet | Ako som sa dostal k turistike | ❌ | ❌ | ❌ | ❌ |  | |
+| 16.4.2021 | vzahradnik | How I learn to speak... in English | ❌ | ❌ | ❌ | ❌ |  | |
+| 16.4.2021 | Vladov svet | Ako sa učím rozprávať... po anglicky | ❌ | ❌ | ❌ | ❌ |  | |
+| 16.4.2021 | JSC electronics | [My view on Flutter][jsc_02] | ✅ | ❌ | ❌ | ❌ |  | |
+| 19.4.2021 | JSC electronics | Cloudflare Pages: My first impressions | ❌ | ❌ | ❌ | ❌ |  | |
+| 20.4.2021 | Comenio | Lean MVP is essential: Comenio Update | ❌ | ❌ | ❌ | ❌ |  | |
+| 20.4.2021 | Vladov svet | Jednoduchý MVP je základ: Plány v Comeniu | ❌ | ❌ | ❌ | ❌ |  | |
+| 21.4.2021 | vzahradnik | How I got into hiking | ❌ | ❌ | ❌ | ❌ |  | |
+| 21.4.2021 | Vladov svet | Ako som sa dostal k turistike | ❌ | ❌ | ❌ | ❌ |  | |
 
 
 [//]: # (Scripts)
