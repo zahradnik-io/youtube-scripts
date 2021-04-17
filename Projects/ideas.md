@@ -1,6 +1,7 @@
 # Ideas
 
 ## JSC
+- Live stream on your own website. What are the options?
 - Static web, best free hosting, JAMstack
 - Why I don't use Wordpress anymore?
 - Migrating to Cloudflare Pages - my first impressions
