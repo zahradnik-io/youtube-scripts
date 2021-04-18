@@ -16,14 +16,16 @@
 | 6.4.2021 | Comenio | [5 tips to become a leader][comenio_01] | ✅ | ✅  | ✅  | ✅ | https://youtu.be/foD2nEo1e8U | |
 | 8.4.2021 | Vladov svet | Flutter a môj pohľad naňho | ❌ | ✅ | ✅ | ✅ | https://youtu.be/eEV2qFKmtTI | |
 | 9.4.2021 | JSC electronics | How to customize existing ISOs (on Linux) | ❌ | ✅ | ✅ | ✅ | https://youtu.be/aFaQjQ4vmQA | |
-| 16.4.2021 | vzahradnik | How I learn to speak... English | ❌ | ❌ | ❌ | ❌ |  | |
-| 16.4.2021 | Vladov svet | Ako sa učím rozprávať... po anglicky | ❌ | ❌ | ❌ | ❌ |  | |
-| 16.4.2021 | JSC electronics | [My view on Flutter][jsc_02] | ✅ | ❌ | ❌ | ❌ |  | |
-| 19.4.2021 | JSC electronics | Cloudflare Pages: My first impressions | ❌ | ❌ | ❌ | ❌ |  | |
+| 18.4.2021 | vzahradnik | Eurovision Song Contest: What I think about the show | ❌ | ✅ | ✅ | ✅ | https://youtu.be/0zuIJHGH-kA | |
+| 18.4.2021 | Vladov svet | Veľká cena Eurovízie: Čo si o nej myslím? | ❌ | ✅ | ✅ | ✅ | https://youtu.be/FPLf00BtAKY | |
+| 19.4.2021 | JSC electronics | [My view on Flutter][jsc_02] | ✅ | ❌ | ❌ | ❌ |  | |
 | 20.4.2021 | Comenio | Lean MVP is essential: Comenio Update | ❌ | ❌ | ❌ | ❌ |  | |
 | 20.4.2021 | Vladov svet | Jednoduchý MVP je základ: Plány v Comeniu | ❌ | ❌ | ❌ | ❌ |  | |
-| 21.4.2021 | vzahradnik | How I got into hiking | ❌ | ❌ | ❌ | ❌ |  | |
-| 21.4.2021 | Vladov svet | Ako som sa dostal k turistike | ❌ | ❌ | ❌ | ❌ |  | |
+| 22.4.2021 | vzahradnik | How I learn to speak... English | ❌ | ❌ | ❌ | ❌ |  | |
+| 22.4.2021 | Vladov svet | Ako sa učím rozprávať... po anglicky | ❌ | ❌ | ❌ | ❌ |  | |
+| 23.4.2021 | JSC electronics | Cloudflare Pages: My first impressions | ❌ | ❌ | ❌ | ❌ |  | |
+| 26.4.2021 | vzahradnik | How I got into hiking | ❌ | ❌ | ❌ | ❌ |  | |
+| 26.4.2021 | Vladov svet | Ako som sa dostal k turistike | ❌ | ❌ | ❌ | ❌ |  | |
 
 
 [//]: # (Scripts)
