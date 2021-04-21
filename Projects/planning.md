@@ -1,7 +1,7 @@
 # Planning
 
 ## Targets
-- JSC electronics: 33 videos to go
+- JSC electronics: 32 videos to go
 - Comenio: 34 videos to go
 - vzahradnik: 33 videos to go
 - Vladov svet: 32 videos to go
