@@ -18,14 +18,14 @@
 | 9.4.2021 | JSC electronics | How to customize existing ISOs (on Linux) | ❌ | ✅ | ✅ | ✅ | https://youtu.be/aFaQjQ4vmQA | |
 | 18.4.2021 | vzahradnik | Eurovision Song Contest: What I think about the show | ❌ | ✅ | ✅ | ✅ | https://youtu.be/0zuIJHGH-kA | |
 | 18.4.2021 | Vladov svet | Veľká cena Eurovízie: Čo si o nej myslím? | ❌ | ✅ | ✅ | ✅ | https://youtu.be/FPLf00BtAKY | |
-| 20.4.2021 | JSC electronics | [My view on Flutter][jsc_02] | ✅ | ❌ | ❌ | ❌ |  | |
-| 21.4.2021 | Comenio | Our road so far... (Comenio Update #1) | ❌ | ❌ | ❌ | ❌ |  | |
-| 21.4.2021 | Vladov svet | Naša doterajšia cesta (Comenio Update #1) | ❌ | ❌ | ❌ | ❌ |  | |
-| 23.4.2021 | Comenio | When things start to fit into places (Comenio Update #2) | ❌ | ❌ | ❌ | ❌ |  | |
-| 23.4.2021 | Vladov svet | Keď veci začnú do seba zapadať (Comenio Update #2) | ❌ | ❌ | ❌ | ❌ |  | |
+| 21.4.2021 | JSC electronics | [My view on Flutter][jsc_02] | ✅ | ✅ | ✅ | ✅ | https://youtu.be/ecl9DTkme0c | |
+| 23.4.2021 | Comenio | Our road so far... (Comenio Update #1) | ❌ | ❌ | ❌ | ❌ |  | |
+| 23.4.2021 | Vladov svet | Naša doterajšia cesta (Comenio Update #1) | ❌ | ❌ | ❌ | ❌ |  | |
 | 26.4.2021 | JSC electronics | Cloudflare Pages: My first impressions | ❌ | ❌ | ❌ | ❌ |  | |
-| 27.4.2021 | vzahradnik | How I learn to speak... English | ❌ | ❌ | ❌ | ❌ |  | |
-| 27.4.2021 | Vladov svet | Ako sa učím rozprávať... po anglicky | ❌ | ❌ | ❌ | ❌ |  | |
+| 27.4.2021 | Comenio | When things start to fit into places (Comenio Update #2) | ❌ | ❌ | ❌ | ❌ |  | |
+| 27.4.2021 | Vladov svet | Keď veci začnú do seba zapadať (Comenio Update #2) | ❌ | ❌ | ❌ | ❌ |  | |
+| ??.4.2021 | vzahradnik | How I learn to speak... English | ❌ | ❌ | ❌ | ❌ |  | |
+| ??.4.2021 | Vladov svet | Ako sa učím rozprávať... po anglicky | ❌ | ❌ | ❌ | ❌ |  | |
 | ??.4.2021 | vzahradnik | How I got into hiking | ❌ | ❌ | ❌ | ❌ |  | |
 | ??.4.2021 | Vladov svet | Ako som sa dostal k turistike | ❌ | ❌ | ❌ | ❌ |  | |
 
