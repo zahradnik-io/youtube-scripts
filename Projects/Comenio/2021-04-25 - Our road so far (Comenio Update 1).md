@@ -1,7 +1,9 @@
 # Our road so far... (Comenio Update #1)
 
 ## Hook
-Hey guys, Vladimír here with Comenio. When I decided to be an entrepreneur, I always wanted to build my company transparently. I highly admire companies like GitLab, which publish many of their internal documents on their website. I believe that this approach is beneficial for everyone. Your customers might trust you more, also your brand will be stronger. I decided for a similar approach. For quite some time, I publish blog posts about my endeavours, and I decided to make videos, too. This is the first video in a series, where I'll be covering foundation of our company, Comenio. I'll share with you the problems we're facing, also our successess. Overall, you'll see what's like to build a company from scratch. I think such a content might be interesting for you guys... you'll see real-world problems, and the ways how we tackle them. And who knows... maybe these videos inspire you to start your own venture. In this first video, I'll cover our road so far. How Comenio started, and where are we today.
+Hey guys, Vladimír here with Comenio. When I decided to be an entrepreneur, I always wanted to build my company transparently. I highly admire companies like GitLab, which publish many of their internal documents on their website. I believe that this approach is beneficial for everyone. Your customers might trust you more, also your brand will be stronger. I decided for a similar approach. For quite some time, I publish blog posts about my endeavours, and I decided to make videos, too.
+
+This is the first video in a series, where I'll be covering foundation of our company, Comenio. I'll share with you the problems we're facing, also our successess. Overall, you'll see what's like to build a company from scratch. I think such a content might be interesting for you guys... you'll see real-world problems, and the ways how we tackle them. And who knows... maybe these videos inspire you to start your own venture. In this first video, I'll cover our road so far. How Comenio started, and where are we today.
 
 ## Content
 - How I got the idea two years ago
