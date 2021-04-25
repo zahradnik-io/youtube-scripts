@@ -19,8 +19,8 @@
 | 18.4.2021 | vzahradnik | Eurovision Song Contest: What I think about the show | ❌ | ✅ | ✅ | ✅ | https://youtu.be/0zuIJHGH-kA | |
 | 18.4.2021 | Vladov svet | Veľká cena Eurovízie: Čo si o nej myslím? | ❌ | ✅ | ✅ | ✅ | https://youtu.be/FPLf00BtAKY | |
 | 21.4.2021 | JSC electronics | [My view on Flutter][jsc_02] | ✅ | ✅ | ✅ | ✅ | https://youtu.be/ecl9DTkme0c | |
-| 23.4.2021 | Comenio | Our road so far... (Comenio Update #1) | ❌ | ❌ | ❌ | ❌ |  | |
-| 23.4.2021 | Vladov svet | Naša doterajšia cesta (Comenio Update #1) | ❌ | ❌ | ❌ | ❌ |  | |
+| 23.4.2021 | Comenio | [Our road so far... (Comenio Update #1)][comenio_02] | ✅ | ✅ | ✅ | ✅ | https://youtu.be/WRJvvG7ejdM | |
+| 23.4.2021 | Vladov svet | [Naša doterajšia cesta (Comenio Update #1)][comenio_02] | ✅ | ✅ | ✅ | ✅ | https://youtu.be/Ba-6qsG8PQ0 | |
 | 26.4.2021 | JSC electronics | Cloudflare Pages: My first impressions | ❌ | ❌ | ❌ | ❌ |  | |
 | 27.4.2021 | Comenio | When things start to fit into places (Comenio Update #2) | ❌ | ❌ | ❌ | ❌ |  | |
 | 27.4.2021 | Vladov svet | Keď veci začnú do seba zapadať (Comenio Update #2) | ❌ | ❌ | ❌ | ❌ |  | |
@@ -37,5 +37,6 @@
 [jsc_02]: https://github.com/zahradnik-io/youtube-scripts/blob/main/Projects/JSC%20electronics/2021-04-13%20-%20My%20view%20on%20Flutter.md
 
 [comenio_01]: /Projects/Comenio/2021-03-39%20-%205%20tips%20to%20become%20a%20leader.md
+[comenio_02]: /Projects/Comenio/2021-04-25%20-%20Our%20road%20so%20far%20(Comenio%20Update%201).md
 
 [vladov_svet_01]: /Projects/Vladov%20svet/2021-03-39%20-%205%20tipov%2C%20ako%20sa%20stať%20lídrom.md
