@@ -21,9 +21,9 @@
 | 21.4.2021 | JSC electronics | [My view on Flutter][jsc_02] | ✅ | ✅ | ✅ | ✅ | https://youtu.be/ecl9DTkme0c | |
 | 23.4.2021 | Comenio | [Our road so far... (Comenio Update #1)][comenio_02] | ✅ | ✅ | ✅ | ✅ | https://youtu.be/WRJvvG7ejdM | |
 | 23.4.2021 | Vladov svet | [Naša doterajšia cesta (Comenio Update #1)][comenio_02] | ✅ | ✅ | ✅ | ✅ | https://youtu.be/Ba-6qsG8PQ0 | |
-| 26.4.2021 | JSC electronics | Cloudflare Pages: My first impressions | ❌ | ❌ | ❌ | ❌ |  | |
-| 27.4.2021 | Comenio | When things start to fit into places (Comenio Update #2) | ❌ | ❌ | ❌ | ❌ |  | |
-| 27.4.2021 | Vladov svet | Keď veci začnú do seba zapadať (Comenio Update #2) | ❌ | ❌ | ❌ | ❌ |  | |
+| 28.4.2021 | JSC electronics | Cloudflare Pages: My first impressions | ❌ | ❌ | ❌ | ❌ |  | |
+| 30.4.2021 | Comenio | When things start to fit into places (Comenio Update #2) | ❌ | ❌ | ❌ | ❌ |  | |
+| 30.4.2021 | Vladov svet | Keď veci začnú do seba zapadať (Comenio Update #2) | ❌ | ❌ | ❌ | ❌ |  | |
 | ??.4.2021 | vzahradnik | How I learn to speak... English | ❌ | ❌ | ❌ | ❌ |  | |
 | ??.4.2021 | Vladov svet | Personality Types: My thoughts | ❌ | ❌ | ❌ | ❌ |  | |
 | ??.4.2021 | vzahradnik | Typy osobností: Čo si o tom myslím | ❌ | ❌ | ❌ | ❌ |  | |
