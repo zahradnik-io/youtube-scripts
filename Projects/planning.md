@@ -6,6 +6,19 @@
 - vzahradnik: 33 videos to go
 - Vladov svet: 31 videos to go
 
+## May 2021
+
+| Date | Channel | Title | Script | Shooting | Editing | Published | Link | Note |
+|---|---|---|---|---|---|---|---|---|
+| ??.4.2021 | vzahradnik | About self-perception... | ❌ | ❌ | ❌ | ❌ |  | |
+| ??.4.2021 | Vladov svet | O sebavnímaní... | ❌ | ❌ | ❌ | ❌ |  | |
+| ??.4.2021 | vzahradnik | How I learn to speak... English | ❌ | ❌ | ❌ | ❌ |  | |
+| ??.4.2021 | Vladov svet | Personality Types: My thoughts | ❌ | ❌ | ❌ | ❌ |  | |
+| ??.4.2021 | vzahradnik | Typy osobností: Čo si o tom myslím | ❌ | ❌ | ❌ | ❌ |  | |
+| ??.4.2021 | Vladov svet | Ako sa učím rozprávať... po anglicky | ❌ | ❌ | ❌ | ❌ |  | |
+| ??.4.2021 | vzahradnik | How I got into hiking | ❌ | ❌ | ❌ | ❌ |  | |
+| ??.4.2021 | Vladov svet | Ako som sa dostal k turistike | ❌ | ❌ | ❌ | ❌ |  | |
+
 ## April 2021
 
 | Date | Channel | Title | Script | Shooting | Editing | Published | Link | Note |
@@ -21,15 +34,9 @@
 | 21.4.2021 | JSC electronics | [My view on Flutter][jsc_02] | ✅ | ✅ | ✅ | ✅ | https://youtu.be/ecl9DTkme0c | |
 | 23.4.2021 | Comenio | [Our road so far... (Comenio Update #1)][comenio_02] | ✅ | ✅ | ✅ | ✅ | https://youtu.be/WRJvvG7ejdM | |
 | 23.4.2021 | Vladov svet | [Naša doterajšia cesta (Comenio Update #1)][comenio_02] | ✅ | ✅ | ✅ | ✅ | https://youtu.be/Ba-6qsG8PQ0 | |
-| 28.4.2021 | JSC electronics | Cloudflare Pages: My first impressions | ❌ | ❌ | ❌ | ❌ |  | |
+| 29.4.2021 | JSC electronics | Cloudflare Pages: My first impressions | ❌ | ❌ | ❌ | ❌ |  | |
 | 30.4.2021 | Comenio | When things start to fit into places (Comenio Update #2) | ❌ | ❌ | ❌ | ❌ |  | |
 | 30.4.2021 | Vladov svet | Keď veci začnú do seba zapadať (Comenio Update #2) | ❌ | ❌ | ❌ | ❌ |  | |
-| ??.4.2021 | vzahradnik | How I learn to speak... English | ❌ | ❌ | ❌ | ❌ |  | |
-| ??.4.2021 | Vladov svet | Personality Types: My thoughts | ❌ | ❌ | ❌ | ❌ |  | |
-| ??.4.2021 | vzahradnik | Typy osobností: Čo si o tom myslím | ❌ | ❌ | ❌ | ❌ |  | |
-| ??.4.2021 | Vladov svet | Ako sa učím rozprávať... po anglicky | ❌ | ❌ | ❌ | ❌ |  | |
-| ??.4.2021 | vzahradnik | How I got into hiking | ❌ | ❌ | ❌ | ❌ |  | |
-| ??.4.2021 | Vladov svet | Ako som sa dostal k turistike | ❌ | ❌ | ❌ | ❌ |  | |
 
 
 [//]: # (Scripts)
