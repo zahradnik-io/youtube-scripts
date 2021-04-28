@@ -10,14 +10,14 @@
 
 | Date | Channel | Title | Script | Shooting | Editing | Published | Link | Note |
 |---|---|---|---|---|---|---|---|---|
-| ??.4.2021 | vzahradnik | About self-perception... | ❌ | ❌ | ❌ | ❌ |  | |
-| ??.4.2021 | Vladov svet | O sebavnímaní... | ❌ | ❌ | ❌ | ❌ |  | |
-| ??.4.2021 | vzahradnik | How I learn to speak... English | ❌ | ❌ | ❌ | ❌ |  | |
-| ??.4.2021 | Vladov svet | Personality Types: My thoughts | ❌ | ❌ | ❌ | ❌ |  | |
-| ??.4.2021 | vzahradnik | Typy osobností: Čo si o tom myslím | ❌ | ❌ | ❌ | ❌ |  | |
-| ??.4.2021 | Vladov svet | Ako sa učím rozprávať... po anglicky | ❌ | ❌ | ❌ | ❌ |  | |
-| ??.4.2021 | vzahradnik | How I got into hiking | ❌ | ❌ | ❌ | ❌ |  | |
-| ??.4.2021 | Vladov svet | Ako som sa dostal k turistike | ❌ | ❌ | ❌ | ❌ |  | |
+| ??.5.2021 | vzahradnik | About self-perception... | ❌ | ❌ | ❌ | ❌ |  | |
+| ??.5.2021 | Vladov svet | O sebavnímaní... | ❌ | ❌ | ❌ | ❌ |  | |
+| ??.5.2021 | vzahradnik | How I learn to speak... English | ❌ | ❌ | ❌ | ❌ |  | |
+| ??.5.2021 | Vladov svet | Personality Types: My thoughts | ❌ | ❌ | ❌ | ❌ |  | |
+| ??.5.2021 | vzahradnik | Typy osobností: Čo si o tom myslím | ❌ | ❌ | ❌ | ❌ |  | |
+| ??.5.2021 | Vladov svet | Ako sa učím rozprávať... po anglicky | ❌ | ❌ | ❌ | ❌ |  | |
+| ??.5.2021 | vzahradnik | How I got into hiking | ❌ | ❌ | ❌ | ❌ |  | |
+| ??.5.2021 | Vladov svet | Ako som sa dostal k turistike | ❌ | ❌ | ❌ | ❌ |  | |
 
 ## April 2021
 
