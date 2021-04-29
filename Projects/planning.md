@@ -10,8 +10,8 @@
 
 | Date | Channel | Title | Script | Shooting | Editing | Published | Link | Note |
 |---|---|---|---|---|---|---|---|---|
-| ??.5.2021 | vzahradnik | About self-perception... | ❌ | ❌ | ❌ | ❌ |  | |
-| ??.5.2021 | Vladov svet | O sebavnímaní... | ❌ | ❌ | ❌ | ❌ |  | |
+| ??.5.2021 | zahradnik.io | About self-perception... | ❌ | ❌ | ❌ | ❌ |  | |
+| ??.5.2021 | zahradnik.io | O sebavnímaní... | ❌ | ❌ | ❌ | ❌ |  | |
 | ??.5.2021 | vzahradnik | How I learn to speak... English | ❌ | ❌ | ❌ | ❌ |  | |
 | ??.5.2021 | Vladov svet | Personality Types: My thoughts | ❌ | ❌ | ❌ | ❌ |  | |
 | ??.5.2021 | vzahradnik | Typy osobností: Čo si o tom myslím | ❌ | ❌ | ❌ | ❌ |  | |
@@ -34,9 +34,9 @@
 | 21.4.2021 | JSC electronics | [My view on Flutter][jsc_02] | ✅ | ✅ | ✅ | ✅ | https://youtu.be/ecl9DTkme0c | |
 | 23.4.2021 | Comenio | [Our road so far... (Comenio Update #1)][comenio_02] | ✅ | ✅ | ✅ | ✅ | https://youtu.be/WRJvvG7ejdM | |
 | 23.4.2021 | Vladov svet | [Naša doterajšia cesta (Comenio Update #1)][comenio_02] | ✅ | ✅ | ✅ | ✅ | https://youtu.be/Ba-6qsG8PQ0 | |
-| 29.4.2021 | JSC electronics | Cloudflare Pages: My first impressions | ❌ | ❌ | ❌ | ❌ |  | |
-| 30.4.2021 | Comenio | When things start to fit into places (Comenio Update #2) | ❌ | ❌ | ❌ | ❌ |  | |
-| 30.4.2021 | Vladov svet | Keď veci začnú do seba zapadať (Comenio Update #2) | ❌ | ❌ | ❌ | ❌ |  | |
+| 29.4.2021 | JSC electronics | Where to host your blog for free? | ❌ | ❌ | ❌ | ❌ |  | |
+| 29.4.2021 | Comenio | When things start to fit into places (Comenio Update #2) | ❌ | ❌ | ❌ | ❌ |  | |
+| 29.4.2021 | Vladov svet | Keď veci začnú do seba zapadať (Comenio Update #2) | ❌ | ❌ | ❌ | ❌ |  | |
 
 
 [//]: # (Scripts)
