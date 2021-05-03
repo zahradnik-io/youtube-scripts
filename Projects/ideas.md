@@ -175,6 +175,7 @@
 - Hľadať spôsob, ako nájsť cestu alebo "Idem, riešim"
 
 ## vzahradnik / Vladov svet
+- Sviatok práce - zmenilo sa až tak veľa?
 - Podivný svet nezadaných / The Weird World of Singles
 - Chatrč / The Shack
 - 4 months for a career change. This is my challenge!
