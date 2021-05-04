@@ -90,6 +90,7 @@
 - Orange TV reverse engineering
 
 ## Comenio
+- Job Interviews - when you have nothing to loose
 - Motivated vs. dedicated
 - Lean MVP - set a target date and get rid of unnecessary features. Comenio update.
 - Where to host your static site for free? Cloudflare, Netlify, GitHub Pages comparison
