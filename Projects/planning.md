@@ -10,8 +10,9 @@
 
 | Date | Channel | Title | Script | Shooting | Editing | Published | Link | Note |
 |---|---|---|---|---|---|---|---|---|
-| ??.5.2021 | zahradnik.io | About self-perception... | ❌ | ❌ | ❌ | ❌ |  | |
-| ??.5.2021 | zahradnik.io | O sebavnímaní... | ❌ | ❌ | ❌ | ❌ |  | |
+| 4.5.2021 | Vladov svet | Podivný svet nezadaných | ❌ | ✅ | ✅ | ✅ | https://youtu.be/RII_YHtViuA | |
+| 5.5.2021 | zahradnik.io | About self-perception... | ❌ | ❌ | ❌ | ❌ |  | |
+| 5.5.2021 | zahradnik.io | O sebavnímaní... | ❌ | ❌ | ❌ | ❌ |  | |
 | ??.5.2021 | vzahradnik | How I learn to speak... English | ❌ | ❌ | ❌ | ❌ |  | |
 | ??.5.2021 | Vladov svet | Personality Types: My thoughts | ❌ | ❌ | ❌ | ❌ |  | |
 | ??.5.2021 | vzahradnik | Typy osobností: Čo si o tom myslím | ❌ | ❌ | ❌ | ❌ |  | |
