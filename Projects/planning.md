@@ -4,7 +4,7 @@
 - JSC electronics: 31 videos to go
 - Comenio: 32 videos to go
 - vzahradnik: 33 videos to go
-- Vladov svet: 29 videos to go
+- Vladov svet: 28 videos to go
 
 ## May 2021
 
