@@ -15,6 +15,7 @@
 | 5.5.2021 | zahradnik.io | O sebavnímaní... | ❌ | ✅ | ✅ | ✅ | https://www.zahradnik.io/o-sebavnimani | |
 | 6.5.2021 | Vladov svet | [Ako zaujať na pracovnom pohovore][comenio_04] | ✅ | ✅ | ✅ | ✅ | https://youtu.be/Bxk8sO05D9o | |
 | 14.5.2021 | JSC electronics | Step by step migration from GitHub Pages to Cloudflare | ❌ | ✅ | ✅ | ✅ | https://youtu.be/izcEj6rF9PM | |
+| 14.5.2021 | Vladov svet | Monotónnosť: ako sa jej zbaviť? | ❌ | ✅ | ✅ | ✅ | https://youtu.be/tYKzpalI9k8 | |
 
 ## April 2021
 
