@@ -17,6 +17,7 @@
 | 14.5.2021 | JSC electronics | Step by step migration from GitHub Pages to Cloudflare | ❌ | ✅ | ✅ | ✅ | https://youtu.be/izcEj6rF9PM | |
 | 14.5.2021 | Vladov svet | Monotónnosť: ako sa jej zbaviť? | ❌ | ✅ | ✅ | ✅ | https://youtu.be/tYKzpalI9k8 | |
 | 14.5.2021 | Comenio | How not to sound monotonous in your speeches | ❌ | ✅ | ✅ | ✅ | https://youtu.be/VGdans6592Q  | |
+| 16.5.2021 | Vladov svet | Prečo natáčam stále len zo svojej obývačky? | ❌ | ✅ | ✅ | ✅ | https://youtu.be/gnY9tvcR84U | |
 
 ## April 2021
 
