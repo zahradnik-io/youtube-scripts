@@ -2,7 +2,7 @@
 
 ## Targets
 - JSC electronics: 30 videos to go
-- Comenio: 31 videos to go
+- Comenio: 30 videos to go
 - vzahradnik: 32 videos to go
 - Vladov svet: 26 videos to go
 
@@ -19,6 +19,7 @@
 | 14.5.2021 | Comenio | How not to sound monotonous in your speeches | ❌ | ✅ | ✅ | ✅ | https://youtu.be/VGdans6592Q  | |
 | 16.5.2021 | Vladov svet | Prečo natáčam stále len zo svojej obývačky? | ❌ | ✅ | ✅ | ✅ | https://youtu.be/gnY9tvcR84U | |
 | 16.5.2021 | vzahradnik | Why I always shoot only from my living room? | ❌ | ✅ | ✅ | ✅ | https://youtu.be/C_jOTn8SJiU | |
+| 17.5.2021 | Comenio | [How to impress on a job interview][comenio_04] | ✅ | ✅ | ✅ | ✅ | https://youtu.be/bUayeDa-ncs | |
 
 ## April 2021
 
