@@ -4,7 +4,7 @@
 - JSC electronics: 30 videos to go
 - Comenio: 30 videos to go
 - vzahradnik: 32 videos to go
-- Vladov svet: 26 videos to go
+- Vladov svet: 25 videos to go
 
 ## May 2021
 
@@ -20,6 +20,7 @@
 | 16.5.2021 | Vladov svet | Prečo natáčam stále len zo svojej obývačky? | ❌ | ✅ | ✅ | ✅ | https://youtu.be/gnY9tvcR84U | |
 | 16.5.2021 | vzahradnik | Why I always shoot only from my living room? | ❌ | ✅ | ✅ | ✅ | https://youtu.be/C_jOTn8SJiU | |
 | 17.5.2021 | Comenio | [How to impress on a job interview][comenio_04] | ✅ | ✅ | ✅ | ✅ | https://youtu.be/bUayeDa-ncs | |
+| 17.5.2021 | Vladov svet | Ako som sa dostal k turistike | ❌ | ✅ | ✅ | ✅ | https://youtu.be/bF82CrJwcYk | |
 
 ## April 2021
 
@@ -48,8 +49,6 @@
 | ??.5.2021 | vzahradnik | Typy osobností: Čo si o tom myslím | ❌ | ❌ | ❌ | ❌ |  | |
 | ??.5.2021 | Vladov svet | Ako sa učím rozprávať... po anglicky | ❌ | ❌ | ❌ | ❌ |  | |
 | ??.5.2021 | vzahradnik | How I got into hiking | ❌ | ❌ | ❌ | ❌ |  | |
-| ??.5.2021 | Vladov svet | Ako som sa dostal k turistike | ❌ | ❌ | ❌ | ❌ |  | |
-
 
 [//]: # (Scripts)
 [jsc_01]: /Projects/JSC%20electronics/2021-03-39%20-%20How%20to%20sync%20GitHub%20mirrors.md
