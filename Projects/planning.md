@@ -49,6 +49,13 @@
 | ??.5.2021 | Vladov svet | Personality Types: My thoughts | ❌ | ❌ | ❌ | ❌ |  | |
 | ??.5.2021 | vzahradnik | Typy osobností: Čo si o tom myslím | ❌ | ❌ | ❌ | ❌ |  | |
 | ??.5.2021 | Vladov svet | Ako sa učím rozprávať... po anglicky | ❌ | ❌ | ❌ | ❌ |  | |
+| ??.5.2021 | JSC electronics | Church Presenter Walkthrough | ❌ | ❌ | ❌ | ❌ |  | |
+| ??.5.2021 | JSC electronics | NexDock Review | ❌ | ❌ | ❌ | ❌ |  | |
+| ??.5.2021 | Vladov svet | Recenzia NexDock | ❌ | ❌ | ❌ | ❌ |  | |
+| ??.5.2021 | Comenio | We're live (Comenio Update #3) | ❌ | ❌ | ❌ | ❌ |  | |
+| ??.5.2021 | Vladov svet | Spustili sme službu (Comenio Update #3) | ❌ | ❌ | ❌ | ❌ |  | |
+| ??.5.2021 | Comenio | Talk with Jano about languages | ❌ | ❌ | ❌ | ❌ |  | |
+| ??.5.2021 | Vladov svet | Diskusia s Janom o jazykoch | ❌ | ❌ | ❌ | ❌ |  | |
 
 [//]: # (Scripts)
 [jsc_01]: /Projects/JSC%20electronics/2021-03-39%20-%20How%20to%20sync%20GitHub%20mirrors.md
