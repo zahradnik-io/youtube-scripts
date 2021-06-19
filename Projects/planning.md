@@ -6,13 +6,17 @@
 - vzahradnik: 32 videos to go
 - Vladov svet: 25 videos to go
 
+## June 2021
+| 12.6.2021 | zahradnik.io | Superficialness and the power of first impression | ✅ | ❌ | ❌ | ✅ | https://www.zahradnik.io/superficialness-and-the-power-of-first-impression | |
+| 12.6.2021 | zahradnik.io | My privacy boundaries | ✅ | ❌ | ❌ | ✅ | Zatiaľ je článok nepreložený. | |
+| 13.6.2021 | zahradnik.io | Geek's Response to Feedback | ✅ | ❌ | ❌ | ✅ | https://www.zahradnik.io/geek's-response-to-feedback | |
+
 ## May 2021
 
 | Date | Channel | Title | Script | Shooting | Editing | Published | Link | Note |
 |---|---|---|---|---|---|---|---|---|
+| 2.5.2021 | zahradnik.io | About self-perception... | ✅ | ❌ | ❌ | ✅ |  | Zatiaľ je článok nepreložený. |
 | 4.5.2021 | Vladov svet | Podivný svet nezadaných | ❌ | ✅ | ✅ | ✅ | https://youtu.be/RII_YHtViuA | |
-| 5.5.2021 | zahradnik.io | About self-perception... | ❌ | ✅ | ✅ | ✅ |  | Zatiaľ je článok nepreložený. |
-| 5.5.2021 | zahradnik.io | O sebavnímaní... | ❌ | ✅ | ✅ | ✅ | https://www.zahradnik.io/o-sebavnimani | |
 | 6.5.2021 | Vladov svet | [Ako zaujať na pracovnom pohovore][comenio_04] | ✅ | ✅ | ✅ | ✅ | https://youtu.be/Bxk8sO05D9o | |
 | 14.5.2021 | JSC electronics | Step by step migration from GitHub Pages to Cloudflare | ❌ | ✅ | ✅ | ✅ | https://youtu.be/izcEj6rF9PM | |
 | 14.5.2021 | Vladov svet | Monotónnosť: ako sa jej zbaviť? | ❌ | ✅ | ✅ | ✅ | https://youtu.be/tYKzpalI9k8 | |
@@ -22,6 +26,7 @@
 | 17.5.2021 | Comenio | [How to impress on a job interview][comenio_04] | ✅ | ✅ | ✅ | ✅ | https://youtu.be/bUayeDa-ncs | |
 | 17.5.2021 | Vladov svet | Ako som sa dostal k turistike | ❌ | ✅ | ✅ | ✅ | https://youtu.be/bF82CrJwcYk | |
 | 17.5.2021 | vzahradnik | How I got into hiking | ❌ | ✅ | ✅ | ✅ | https://youtu.be/kIg5HzAVBys | |
+| 23.5.2021 | zahradnik.io | Eurovision Song Contest 2021 in Rotterdam — A pleasant surprise | ✅ | ❌ | ❌ | ✅ | https://www.zahradnik.io/eurovision-song-contest-2021-in-rotterdam-a-pleasant-surprise | |
 
 ## April 2021
 

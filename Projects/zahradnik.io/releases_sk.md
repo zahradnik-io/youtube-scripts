@@ -4,6 +4,10 @@
 
 | Dátum | Názov |
 |---|---|
+| 13.6.2021  | [Geekova odpoveď na spätnú väzbu](https://www.zahradnik.io/geekova-odpoved-na-spatnu-vazbu) |
+| 12.6.2021  | [Hranice môjho súkromia](https://www.zahradnik.io/hranice-mojho-sukromia) |
+| 12.6.2021  | [Povrchnosť a sila prvého dojmu](https://www.zahradnik.io/povrchnost-a-sila-prveho-dojmu) |
+| 23.5.2021  | [Eurovision Song Contest 2021 v Rotterdame — Príjemné prekvapenie](https://www.zahradnik.io/eurovision-song-contest-2021-v-rotterdame-prijemne-prekvapenie) |
 | 2.5.2021   | [O sebavnímaní](https://www.zahradnik.io/o-sebavnimani) |
 | 21.3.2021  | [Svet potrebuje lídrov](https://www.zahradnik.io/svet-potrebuje-lidrov) |
 | 14.3.2021  | [Plány](https://www.zahradnik.io/plany) |
