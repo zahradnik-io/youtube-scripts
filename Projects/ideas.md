@@ -225,6 +225,7 @@
 - Som architekt
 - Architekt a vzťahy
 - Dospelé deti, parenting
+- Prečo sa bojíme smrti?
 
 ## Toastmasters Košice
 - Video ako robiť rolu časomerača na zoome online
