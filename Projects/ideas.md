@@ -222,7 +222,9 @@
 - https://www.harmonika.cz/noty/
 
 ## zahradnik.io
-- TBD
+- Som architekt
+- Architekt a vzťahy
+- Dospelé deti, parenting
 
 ## Toastmasters Košice
 - Video ako robiť rolu časomerača na zoome online
