@@ -20,12 +20,22 @@ Mám... sen. Dlhotrvajúci sen, že chcem používať môj mobil ako linuxový n
 - Živé demo: NexDock poháňaný Raspberry Pi 4
   - Ukáž bootovanie, Raspberry OS, ovládanie hlasitosti a jasu, dotykovú obrazovku
 
+  - NexDock v mnohom pripomína ultrabook. Na ľavej strane nájdete zopár USB-C portov a jeden HDMI port. Ten využijete v prípade, že vaše zariadenie nevie posielať obraz po USB. Na pravej strane je jeden USB-A port a slúchadlový jack. Príjemne ma prekvapila klávesnica, ktorá je veľmi pohodlná a tlačidlá sú dosť veľké.
+  - Súčasťou balenia je nabíjačka, potrebné káble a redukcie. Skrátka všetko potrebné, aby ste zapojili vaše zariadenie.
+  - Podľa toho, aké zariadenie máte, sa zapojenie trochu líši. NexDock poskytuje prehľadnú brožúru a na ich webe nájdete takisto zoznam podporovaných zariadení.
+  - Raspberry Pi 4 sa zapája celkovo dvomi káblami, pričom ten jeden je rozdvojka v tvare Y. Ak však pridáte do konfiguračného súboru jeden riadok, viete namiesto tejto redukcie použiť štandardný USB-C kábel. A keďže Raspberry Pi má microHDMI výstup, potrebujete redukciu na plnohodnotné HDMI. Aj tú NexDock dodáva v príslušenstve.
+  - Na Raspberry som nainštaloval najnovší Raspberry OS. Rovnako dobre vám bude fungovať aj Ubuntu, dokonca aj Windows 10 pre ARM zariadenia. Otestované to však nemám.
+  - NexDock v tejto chvíli využívam hlavne ako prenosný monitor pre Raspberry Pi. Na tento účel funguje dokonale. Keby ste nevideli pripojené Raspberry Pi, skutočne by ste mali pocit, že máte v ruke notebook. Fungujú Fn klávesy, nastavenie jasu, hlasitosti. Všetko, na čo ste zvyknutí.
+  - Hlavne, keď ste embedded vývojár ako ja, takéto riešenie vám šetrí čas. Nemusíte totiž odpájať obrazovku, klávesnicu a myš od vášho počítača. Je to otrava.
+
 - NexDock nie je dokonalý
-  - Chcel som použiť svoj NexDock ako druhý monitor, ktorý viem zapojiť k môjmu digitálnemu fotoaparátu
+  - Ako som však zistil, NexDock nie je dokonalý.
+  - Chcel som použiť svoj NexDock ako monitor, ktorý viem zapojiť k môjmu digitálnemu fotoaparátu
   - HDMI port je dosť vyberavý a podarilo sa mi NexDock rozbehať s mojím fotoaparátom iba raz. Takisto vtedy, keď je pripojené len HDMI, nemôžete používať ovládanie hlasitosti, pretože nefunguje.
   - Redukcia z microHDMI na HDMI je v dosť zlej kvalite. Rozlomila sa mi už po pár použitiach. Našťastie sú tieto adaptéry lacné a ľahko ich viete nájsť.
+  - Tieto chyby zamrzia, ale stále si myslím, že ide o hodnotné zariadenie pre istú cieľovku.
 
 ## CTA
-Tak to by bolo asi všetko. V tejto chvíli používam NexDock hlavne s mojimi počítačmi Raspberry Pi, keď robím nejaký embedded vývoj. Je to rýchlejšie ako pripojiť Raspberry k mojej hlavnej obrazovke, klávesnici a myši, ktoré sú pripojené k môjmu hlavnému počítaču. Páči sa mi, že spracovanie je v slušnej kvalite, vrátane fullHD dotykového displeja. Teoreticky bude môcť NexDock používať roky, akurát sa budú meniť zariadenia, ktoré k nemu pripojím.
+Používať mobil ako počítač mi dáva zmysel. Dnešný výkon už dostačuje na bežnú prácu. NexDock je kvalitný kus hardvéru a môže byť slušný doplnok na pracovné cesty.
 
-Čo si myslíte o konvergencii? Dáva pre vás zmysel používať váš telefón namiesto notebooku? Dajte mi vedieť v komentároch nižšie. Vďaka a vidíme sa u ďalšieho videa.
+Čo si myslíte o konvergencii? Dáva vám zmysel používať váš telefón namiesto notebooku? Dajte mi vedieť v komentároch nižšie. Vďaka a vidíme sa u ďalšieho videa.

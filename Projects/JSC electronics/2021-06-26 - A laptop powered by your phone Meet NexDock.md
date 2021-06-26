@@ -20,12 +20,22 @@ I... have a dream. A long-lasting dream to use my mobile phone as a Linux laptop
 - Live demo: NexDock powered by a Raspberry Pi 4
   - Show booting, Raspberry OS, volume and brightness control, touch screen
 
+  - NexDock resembles ultrabooks in many ways. On the left side, you can find a couple of USB-C ports, and one input HDMI port. You can use that when your device can't send image over USB. On the right side is a single USB-A port and a headphone jack. I was pleasantly surprised by a keyboard, which has a nice grip, and its keys are quite big.
+  - Part of the accessories is a power charger, necessary cables and adapters. All you really need to hook up your device.
+  - The connection varies based on the device you have. NexDock gives you a nice brochure. Also, on their website you can find the list of all supported devices.
+  - You need to connect Raspberry Pi 4 using two cables, while one of them is a special Y-splitter. However, if you add one line into the configuration file, you can use a standard USB-C cable instead of this splitter. And because the Raspberry Pi has microHDMI output, you also need an adapter to full-sized HDMI. It is also included in the accessories.
+  - On the Raspberry Pi, I installed the latest Raspberry OS. Ubuntu will work also good, even Windows 10 for ARM should work just fine. I didn't test it though.
+  - At the moment, I use NexDock primarily as a portable display for Raspberry Pi. It works just fine for that purpose. If there was no visible Raspberry connected to the dock, you would have a feeling that you work with a real laptop. It has working Fn keys, brightness, and volume controls. All bells and whistles you got used to.
+  - Especially, if you're an embedded developer like me, such a solution saves your time tremendously. You don't have to disconnect your existing display, keyboard and mouse from your computer. Doing this repeatedly is a bummer.
+
 - NexDock is not perfect
-  - I wanted to use my NexDock also as a secondary monitor, which I can hook up with my digital camera
-  - HDMI port is picky and I got NexDock to work with my camera only once. Also, you can't use volume controls when only HDMI is used, because it doesn't work at all.
-  - The microHDMI to HDMI adapter is bad quality. It got broken after a couple of uses. Luckily, these adapters are cheap and easy to find.
+  - As I found out, NexDock is not perfect.
+  - I wanted to use my NexDock as a monitor, which I can hook up to my digital camera
+  - HDMI port is picky, and I managed to get it work only once. Also, when you connect just the HDMI, the brightness and volume controls don't work at all.
+  - The microHDMI-to-HDMI adapter is bad-quality. It broke after a couple of uses. Luckily, these adapters are dirt cheap and easy to find.
+  - Imperfections like this bother me, but I still think it's a valuable device for a certain niche.
 
 ## CTA
-There you have it guys. At the moment I use NexDock mostly with my Raspberry Pi computers when I do some embedded programming. It is quicker than hooking my Raspberry to my main display, keyboard and mouse, which are hooked to my desktop PC. I like that the build is decent quality, with a fullHD touch display. So in theory I can use NexDock for years, I will just switch to a different device I hook into it.
+Using my mobile phone instead of my laptop makes sense to me. The performance of smartphones is more than enough for common tasks. NexDock is a decent piece of hardware, and it can serve you well on your travels.
 
 What do you think about convergence? Does it make sense for you to use your phone instead of your laptop? Let me know in the comments below. Thanks, and see you in the next video.
