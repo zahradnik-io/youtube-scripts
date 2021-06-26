@@ -5,7 +5,7 @@ I... have a dream. A long-lasting dream to use my mobile phone as a Linux laptop
 
 ## Content
 - How can I use my phone as a laptop?
-  - Companies like Microsoft and Canonical worked on convergence for a long time. So when you plug your phone to a big screen, the user interface it will transform into desktop.
+  - Companies like Microsoft and Canonical worked on convergence for a long time. So when you plug your phone to a big screen, the user interface will transform itself into a desktop.
   - In 2015, I bought Lumia 950. It was a phone from Microsoft, which had a dock into which you could plug your external display, keyboard, and mouse, and which offered desktop-like Windows experience with some limitations. It was a step in the right direction, but the experience was not very good.
   - Canonical, the creator of the Ubuntu linux distribution, had a similar vision. They wanted to adapt Ubuntu to mobile phones, and to turn them into fully usable computers when connected to dock. Ultimately, they abandoned the idea, but the project still lives thanks to the community and the folks from UBPorts. And there are other groups with similar effort, like Plasma Mobile.
   - In 2018, 3-years later after Lumia 950 was released, Samsung came with their solution called DeX. For the original version you had to buy custom accessories; later a simple USB-C to HDMI adapter was enough. For quite some time, Samsung even provided a way how to run Linux on your phones. Sadly, their solution was abandoned in October 2019.
