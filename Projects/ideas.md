@@ -224,7 +224,8 @@
 ## zahradnik.io
 - Som architekt
 - Architekt a vzťahy
-- Dospelé deti, parenting
+- Nové začiatky - https://www.youtube.com/watch?v=vI4mLLrEGn4
+- Dospelé deti, parenting - dva diely. Gen Y a prístup k životu. Všeobecne ľudia a prístup k autoritám ako k rodičom.
 - Prečo sa bojíme smrti?
 
 ## Toastmasters Košice
