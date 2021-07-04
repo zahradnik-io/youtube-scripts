@@ -228,6 +228,7 @@
 - Dospelé deti, parenting - dva diely. Gen Y a prístup k životu. Všeobecne ľudia a prístup k autoritám ako k rodičom.
 - Prečo sa bojíme smrti?
 - O networkovaní a rečnení - Ness, Speechcraft videá... Prečo pred tým máme strach?
+- Šialene ťažký život open-source vývojára
 
 ## Toastmasters Košice
 - Video ako robiť rolu časomerača na zoome online
