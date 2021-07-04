@@ -229,6 +229,7 @@
 - Prečo sa bojíme smrti?
 - O networkovaní a rečnení - Ness, Speechcraft videá... Prečo pred tým máme strach?
 - Šialene ťažký život open-source vývojára
+- Váš život ovplyvňuje niekoľko zlomových rozhodnutí
 
 ## Toastmasters Košice
 - Video ako robiť rolu časomerača na zoome online
