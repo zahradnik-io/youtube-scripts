@@ -177,6 +177,19 @@
 - Hľadať spôsob, ako nájsť cestu alebo "Idem, riešim"
 
 ## vzahradnik / Vladov svet
+- Markdown a git, dokonalá kombinácia
+- O čom je kritické myslenie?
+- Kryptomeny, čo si o nich myslím?
+- Nextcloud
+- Vlastný GitLab
+- Prečo mám domáci server?
+- Náš život určuje niekoľko zlomových rozhodnutí
+- Priťahuješ ľudí ako si ty sám
+- ~~~Networking - nočná mora každého introverta
+- Zoznamovanie sa - covid, (ne) dohadzovanie kamarátmi, korzo na hlavnej
+- Prečo sa ľudia boja riskovať (vo vzťahoch)?
+- Prečo ľudia spolu chodia tak dlho?
+- Žiť vs. prežívať
 - Sviatok práce - zmenilo sa až tak veľa?
 - Podivný svet nezadaných / The Weird World of Singles
 - Chatrč / The Shack
